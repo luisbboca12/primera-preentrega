@@ -2,25 +2,25 @@
     {
         "title": "Escuadra",
         "price": 75.66,
-        "thumbnail": "someUrl.com",
+        "thumbnail": "https://profein.adhoc.ar/web/image/product.template/10185/image_256/%5BBR6825%5D%20ESCUADRA%20CARPINTERO%2014%22%20BREMEN?unique=1deca12",
         "id": 1
     },
     {
         "title": "Calculadora",
         "price": 72.66,
-        "thumbnail": "someUrl.com",
+        "thumbnail": "https://www.wiki.com.uy/imgs/productos/productos31_1390.jpg",
         "id": 2
     },
     {
         "title": "Lapicera",
         "price": 100,
-        "thumbnail": "someUrl.com",
+        "thumbnail": "https://www.wiki.com.uy/imgs/productos/productos31_1964.jpg",
         "id": 3
     },
     {
         "title": "Cuaderno A4",
         "price": 139.99,
-        "thumbnail": "someUrl.com",
+        "thumbnail": "https://images.rappi.com.ar/products/1423097-1594765451176.png?d=136x136&e=webp",
         "id": 4
     }
 ]
